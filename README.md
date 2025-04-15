@@ -57,15 +57,6 @@ The tool generates a detailed report in ip_intel.txt containing:
 ## 🤝 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## 💻 Usage
-Run the tool using:
-
-```bash
-python mc_intel.py
- ```
-
-When prompted, enter the Minecraft server IP or domain name you want to analyze.
-
 ## 📋 Output
 The tool generates a detailed report in ip_intel.txt containing:
 
@@ -79,12 +70,11 @@ The tool generates a detailed report in ip_intel.txt containing:
 - WHOIS information
 - Forum mentions
 - And more!
+
 ## 🛠️ Requirements
 - Python 3.8 or higher
 - Internet connection
 - Required Python packages (listed in requirements.txt)
-## 🔧 Configuration
-No additional configuration is needed. The tool works out of the box!
 
 ## 🤝 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -94,6 +84,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 3. Commit your changes ( git commit -m 'Add some AmazingFeature' )
 4. Push to the branch ( git push origin feature/AmazingFeature )
 5. Open a Pull Request
+
 ## 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
